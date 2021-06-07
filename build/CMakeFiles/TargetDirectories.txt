@@ -1,0 +1,6 @@
+/home/sdu829/LuoC/QR-Code/build/CMakeFiles/edit_cache.dir
+/home/sdu829/LuoC/QR-Code/build/CMakeFiles/rebuild_cache.dir
+/home/sdu829/LuoC/QR-Code/build/CMakeFiles/dmtx_detect.dir
+/home/sdu829/LuoC/QR-Code/build/CMakeFiles/opencv_detect.dir
+/home/sdu829/LuoC/QR-Code/build/CMakeFiles/zbar_detect.dir
+/home/sdu829/LuoC/QR-Code/build/CMakeFiles/QR_Code.dir

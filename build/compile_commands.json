@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/sdu829/LuoC/QR-Code/build",
+  "command": "/usr/bin/c++ -I../ -I../include -isystem /usr/local/include/opencv -std=c++11 -g -o CMakeFiles/dmtx_detect.dir/dmtx_detect.cpp.o -c /home/sdu829/LuoC/QR-Code/dmtx_detect.cpp",
+  "file": "/home/sdu829/LuoC/QR-Code/dmtx_detect.cpp"
+},
+{
+  "directory": "/home/sdu829/LuoC/QR-Code/build",
+  "command": "/usr/bin/c++ -I../ -I../include -isystem /usr/local/include/opencv -std=c++11 -g -o CMakeFiles/opencv_detect.dir/opencv_detect.cpp.o -c /home/sdu829/LuoC/QR-Code/opencv_detect.cpp",
+  "file": "/home/sdu829/LuoC/QR-Code/opencv_detect.cpp"
+},
+{
+  "directory": "/home/sdu829/LuoC/QR-Code/build",
+  "command": "/usr/bin/c++ -I../ -I../include -isystem /usr/local/include/opencv -std=c++11 -g -o CMakeFiles/zbar_detect.dir/zbar_detect.cpp.o -c /home/sdu829/LuoC/QR-Code/zbar_detect.cpp",
+  "file": "/home/sdu829/LuoC/QR-Code/zbar_detect.cpp"
+},
+{
+  "directory": "/home/sdu829/LuoC/QR-Code/build",
+  "command": "/usr/bin/c++ -DQR_Code_EXPORTS -I../ -I../include -isystem /usr/local/include/opencv -std=c++11 -g -fPIC -o CMakeFiles/QR_Code.dir/src/common.cpp.o -c /home/sdu829/LuoC/QR-Code/src/common.cpp",
+  "file": "/home/sdu829/LuoC/QR-Code/src/common.cpp"
+}
+]

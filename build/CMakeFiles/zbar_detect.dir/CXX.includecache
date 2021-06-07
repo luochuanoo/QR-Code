@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/common.hpp
+vector
+-
+opencv2/opencv.hpp
+../include/opencv2/opencv.hpp
+
+/home/sdu829/LuoC/QR-Code/zbar_detect.cpp
+iostream
+-
+string
+-
+unistd.h
+-
+ctime
+-
+zbar.h
+/home/sdu829/LuoC/QR-Code/zbar.h
+opencv2/opencv.hpp
+/home/sdu829/LuoC/QR-Code/opencv2/opencv.hpp
+opencv2/imgproc.hpp
+/home/sdu829/LuoC/QR-Code/opencv2/imgproc.hpp
+common.hpp
+/home/sdu829/LuoC/QR-Code/common.hpp
+
